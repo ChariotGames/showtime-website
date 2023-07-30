@@ -18,7 +18,7 @@ There are the classic modes easy, medium and hard, but also a new one we named v
 
 * **Scores and Times**
 
-What great game can do without high-scores, collecting points and a pressuring timer? Exactely! That´s why we have them, too. 
+What great game can do without high-scores, collecting points and a pressuring timer? Exactly! That´s why we have them, too. 
 
 But we used them for "scientific reasons". ;) <br>
 The points incentivise you to to stay engaged in playful testing of your concentration, while the high-scores indirectly show your progression and betterment of concentration, by constantly reaching higher values. The timer is a dreading sight at the beginning, but a great measuring Tools for your brain's endurance in the end. 

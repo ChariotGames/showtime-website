@@ -13,9 +13,9 @@ weight = 1
 
 {{<section title="Future">}}
 
-In fututre we planed to implement the multiplayer mode, where you can play with and against others. 
+In future we planed to implement the multiplayer mode, where you can play with and against others. 
 
-To enjoi our game everywhere we planed to implement besides the smartphoneapp a smart fridge version to make shure that every device is.
+To enjoy our game everywhere we planed to implement besides the smartphone app a smart fridge version to make sure that every device is.
 
 Raytracing is also a new feature which will come on high end devices as well.
 
