@@ -1,5 +1,5 @@
 +++
-title = "Konzentrationstraining durch Minispiele"
+title = "Konzentrations- training durch Minispiele"
 project_id = "B2"
 
 # Properties for displaying the project in the project list
